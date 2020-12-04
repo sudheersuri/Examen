@@ -1,1 +1,1 @@
-<?php echo "hello world";?>
+<?php echo "Testing Hostinger git auto deploy";?>
